@@ -7,5 +7,5 @@
 
 ###### RGB (Monocular):
 
-- [LLMs Visualization](https://github.com/bbycroft/llm-viz). Available on website [here](bbycroft.net/llm)
+- [LLMs Visualization](https://github.com/bbycroft/llm-viz). Available on website [here](https://bbycroft.net/llm)
 >3D Visualization of an GPT-style LLM
